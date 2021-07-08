@@ -8,7 +8,7 @@
     "Ref": "UnauthRoleName"
   },
   "convertType": "speechGenerator",
-  "language": "en-US",
-  "voice": "Kendra",
+  "language": "es-ES",
+  "voice": "Lucia",
   "access": "auth"
 }
